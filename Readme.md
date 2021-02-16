@@ -1,1 +1,1 @@
-my set of files to run a customized pomodoro alarm
+my package to run a custom pomodoro alarm
